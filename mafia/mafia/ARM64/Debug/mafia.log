@@ -1,0 +1,12 @@
+﻿  mafia.cpp
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(57,124): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(57,124): warning C4244:         with
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(57,124): warning C4244:         [
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(57,124): warning C4244:             _Rep=__int64
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(57,124): warning C4244:         ]
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(103,67): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(103,67): warning C4267:         with
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(103,67): warning C4267:         [
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(103,67): warning C4267:             _Ty=int
+C:\Users\kseniapankova\source\repos\mafia\mafia\mafia.cpp(103,67): warning C4267:         ]
+  mafia.vcxproj -> C:\Users\kseniapankova\source\repos\mafia\ARM64\Debug\mafia.exe
